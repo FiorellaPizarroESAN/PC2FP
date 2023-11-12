@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488811101243",
+    "project_id": "pc2fp-53953",
+    "storage_bucket": "pc2fp-53953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488811101243:android:c8642f78a4b1d57b01f01e",
+        "android_client_info": {
+          "package_name": "com.example.pc2fp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhr7oUi8eW8erL4OzgXY8TOWMbv9akapw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488811101243:android:e0dc055db73bd81901f01e",
+        "android_client_info": {
+          "package_name": "dev.fpizarro.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhr7oUi8eW8erL4OzgXY8TOWMbv9akapw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
